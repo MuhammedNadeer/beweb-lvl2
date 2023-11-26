@@ -36,25 +36,19 @@ This Flask project is a result of the Level 2 event at Beweb, a web development 
    git clone https://github.com/your-username/invoice-generator.git
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd invoice-generator
-   ```
-
-3. Install dependencies:
+2. Install dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-4. Run the application:
+3. Run the application:
 
    ```bash
    python app.py
    ```
 
-5. Open your browser and go to [http://localhost:5000](http://localhost:5000) to access the Invoice Generator.
+4. Open your browser and go to [http://localhost:5000](http://localhost:5000) to access the Invoice Generator.
 
 ## Usage
 
